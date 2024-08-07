@@ -2,6 +2,8 @@
 
 This project is a website for Test FE Web Omega Andalan, built with Next.js, styled with Tailwind CSS, and using React Icons for iconography.
 
+Demo Website: https://test-fe-web-omega-andalan.vercel.app/
+
 ## Technologies Used
 
 - [Next.js](https://nextjs.org/) - React framework for production

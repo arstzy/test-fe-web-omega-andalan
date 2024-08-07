@@ -26,10 +26,10 @@ npm run dev
 
 Desktop:
 <p>
-  <img src="/public/preview-desktop.png" alt='preview-dektop'>
+  <img src="/public/images/preview-desktop.png" alt='preview-dektop'>
 </p>
 
 Mobile:
 <p>
-  <img src="/public/preview-mobile.png" alt='preview-mobile'>
+  <img src="/public/images/preview-mobile.png" alt='preview-mobile' width="300" height="auto">
 </p>
